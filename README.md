@@ -4,10 +4,6 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="giphy" />
 
-<div align="left">
-  <p>Desarrollador con experiencia en tecnologías web y móviles, apasionado por la programación y en constante aprendizaje.</p>
-</div>
-
 ###
 
 <div align="center">
