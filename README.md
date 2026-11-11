@@ -1,50 +1,121 @@
-<h2 align="left">Hola soy Alexander</h2>
+<h1 align="center">Hi, I'm Alexander García Rangel 👋</h1>
+<h3 align="center">Fullstack Developer · Web & Mobile</h3>
 
-###
+<p align="center">
+  I build efficient, scalable web and mobile apps, and I enjoy turning complex problems into simple, working products.
+</p>
 
-###
+<p align="center">
+  <a href="https://alex-garcia-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-alex--garcia--dev.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://alex-garcia-dev.vercel.app/cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-CV-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" />
+  </a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:30px;width:30px;" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:30px;width:30px;" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:30px;width:30px;" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:30px;width:30px;" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:30px;width:30px;" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:30px;width:30px;" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="height:30px;width:30px;" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:30px;width:30px;" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:30px;width:30px;" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="height:30px;width:30px;" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:30px;width:30px;" alt="Node.js" />
-</div>
+---
 
-###
+### 🚀 About me
 
-<div align="left">
+- 💼 Fullstack developer focused on **React, Next.js, React Native and Node.js**.
+- 🧩 I work well under pressure, prioritize clearly and enjoy working in a team.
+- 🔄 Experienced with **Scrum**, both as a developer and as Scrum Master.
+- 📚 Always learning whatever technology the project needs.
+- ✅ Open to new projects and opportunities.
+
+---
+
+### 🛠️ Tech stack
+
+**Frontend**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+</p>
+
+**Mobile**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter / FlutterFlow" />
+</p>
+
+**Backend & databases**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+</p>
+
+**Languages & tools**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
+</p>
+
+---
+
+### 📂 Featured projects
+
+| Project | What it does | Stack | Links |
+| --- | --- | --- | --- |
+| **Materiales El Balcón** | Inventory and sales system with real-time stock control | Node.js · MySQL | [Demo](https://inventario-el-balcon.vercel.app/login) · [Code](https://github.com/AlexanderGarcia27/Inventario-El-Balcon) |
+| **decorazon.app** | Dynamic digital invitations, mobile-first, with access generation | Next.js | [Live](https://decorazon.app/) |
+| **Volar Adentro** | Landing page for psychology services and online courses | React · UX/UI | [Live](https://volaradentro.com/) |
+| **Coffee Shop Platform** | Product and service showcase with a modern design | Frontend · Scrum | [Demo](https://proyecto-cafeteria-sooty.vercel.app/) · [Code](https://github.com/AlexanderGarcia27/Proyecto-Cafeteria) |
+| **Data Scraping System** | Automated web data collection and visualization | Node.js · Express · React | — |
+
+---
+
+### 💼 Experience
+
+- **Frontend Developer** · Digitalooza · *Jan 2026 – Apr 2026*
+- **Fullstack Developer** · Materiales El Balcón · *Aug 2025 – Dec 2025*
+- **Scrum Master & Frontend Developer** · Independent projects · *Jun 2025 – Dec 2025*
+
+---
+
+### 📫 Let's connect
+
+<p>
+  <a href="https://www.linkedin.com/in/alexander-garcia-rangel-3946ba253" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:agr270404@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/527711138128" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
   <a href="https://www.instagram.com/alex.garcia_rangel" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-</a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/share/19WzpXPz1v" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
-<a href="mailto:agr270404@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
+---
 
-<a href="https://www.linkedin.com/in/alexander-garcia-rangel-3946ba253" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderGarcia27&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderGarcia27&layout=compact&hide_border=true" height="165" alt="Top languages" />
+</p>
 
-<a href="https://www.facebook.com/share/19WzpXPz1v" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-</a>
-
-<a href="https://wa.me/7711138128" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
-</a>
-
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AlexanderGarcia27/AlexanderGarcia27/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexanderGarcia27/AlexanderGarcia27/output/snake.svg" alt="Snake animation" />
+</p>
